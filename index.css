@@ -82,6 +82,10 @@ body {
   align-items: center;
 }
 
+h1 {
+  display: none;
+}
+
 main {
   margin: 4rem 1.5rem;
   display: grid;
